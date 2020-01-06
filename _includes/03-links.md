@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub repo rikat-ms slideshow](https://github.com/rikat-ms/github-slideshow)
